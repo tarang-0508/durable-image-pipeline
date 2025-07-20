@@ -132,7 +132,7 @@ CREATE TABLE ImageMetadata (
 
 ---
 
-## 🔐 Sample `local.settings.json` (DO NOT commit this)
+## 🔐 Sample `local.settings.json` 
 
 ```json
 {
@@ -148,6 +148,7 @@ CREATE TABLE ImageMetadata (
 ---
 
 ## 📽️ Demo Video
-(https://youtu.be/LV5jwbQujOA)
+
+###### (https://youtu.be/LV5jwbQujOA)
 ---
 
