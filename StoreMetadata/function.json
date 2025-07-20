@@ -1,0 +1,17 @@
+{
+  "bindings": [
+    {
+      "name": "metadata",
+      "type": "activityTrigger",
+      "direction": "in"
+    },
+    {
+      "name": "outputTable",
+      "type": "sql",
+      "direction": "out",
+      "commandText": "INSERT INTO ImageMetadata (file_name, file_size_kb, width, height, format) VALUES (@file_name, @file_size_kb, @width, @height, @format)",
+      "connectionStringSetting": "SqlConnectionString"
+    }
+  ],
+  "scriptFile": "__init__.py"
+}
