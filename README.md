@@ -148,9 +148,6 @@ CREATE TABLE ImageMetadata (
 ---
 
 ## 📽️ Demo Video
-
-🔗 YouTube Demo Link Here  
-_(Replace with your real YouTube demo before submission)_
-
+(https://youtu.be/LV5jwbQujOA)
 ---
 
